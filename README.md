@@ -1,7 +1,6 @@
 ### CSRE-IITBombay.github.io  
-![logo](https://github.com/PavelBodle/PavelBodle.github.io/blob/master/assets/logo.png?raw=true)  Centre of Studies in Resources Engineering - Established in IIT Bombay in 1976, Centre of Studies in Resources Engineering (CSRE) has grown into one of the premier centres in the country working in the frontier area of Geo-informatics and Natural Resources Engineering.
-
-
+![logo](https://github.com/PavelBodle/PavelBodle.github.io/blob/master/assets/logo.png?raw=true)  
+Centre of Studies in Resources Engineering - Established in IIT Bombay in 1976, Centre of Studies in Resources Engineering (CSRE) has grown into one of the premier centres in the country working in the frontier area of Geo-informatics and Natural Resources Engineering.
 
 
 
