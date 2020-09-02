@@ -23,11 +23,6 @@ Centre of Studies in Resources Engineering - Established in IIT Bombay in 1976, 
 | CT-3 |  |  |  |
 
 
----
-## Result :
-### - [Incentive Points Live](https://docs.google.com/spreadsheets/d/e/2PACX-1vSM1fbMXQk9M_v_jXYX6yjsobGbVr2eP-XQsaYjsbAdvrHDRNmnLl1HWB07Fdo0u7xPXkFE69bH6pTx/pubhtml)
----
-
 ## Aptitude Tests
 | Aptitude Tests| Links |  Date | Incentive Points |
 | ------ | ------ | ------ | ------ |
@@ -42,7 +37,10 @@ Centre of Studies in Resources Engineering - Established in IIT Bombay in 1976, 
 | TT-2 | q | xyz | 2 |
 | TT-3 | q | xyz | 2 |
 
-
+---
+## Result :
+### - [Incentive Points Live](https://docs.google.com/spreadsheets/d/e/2PACX-1vSM1fbMXQk9M_v_jXYX6yjsobGbVr2eP-XQsaYjsbAdvrHDRNmnLl1HWB07Fdo0u7xPXkFE69bH6pTx/pubhtml)
+---
 
 
 
