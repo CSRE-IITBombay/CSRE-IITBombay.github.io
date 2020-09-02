@@ -31,16 +31,16 @@ Centre of Studies in Resources Engineering - Established in IIT Bombay in 1976, 
 # Aptitude Tests
 | Aptitude Tests| Links |  Date | Incentive Points |
 | ------ | ------ | ------ | ------ |
-| AT-1 |  | xyz | 2 |
-| AT-2 |  | xyz | 2 |
+| AT-1 | q | xyz | 2 |
+| AT-2 | q | xyz | 2 |
 
 
 # Technical Tests
 | Technical Tests | Links |  Date | Incentive Points |
 | ------ | ------ | ------ | ------ |
-| TT-1 | | xyz | 2 |
-| TT-2 |  | xyz | 2 |
-| TT-3 |  | xyz |  |
+| TT-1 | q | xyz | 2 |
+| TT-2 | q | xyz | 2 |
+| TT-3 | q | xyz | 2 |
 
 
 
