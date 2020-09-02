@@ -21,9 +21,7 @@ Centre of Studies in Resources Engineering - Established in IIT Bombay in 1976, 
 | CT-1 | [CSRE-CT1-2020](https://www.hackerrank.com/csre-ct1-2020) | 16 Aug 2020 | 2 |
 | CT-2 | [CSRE Coding Test-2](https://www.hackerrank.com/csre-coding-test-2) | 22 Aug 2020  | 2 |
 | CT-3 |  |  |  |
-| CT-4 |  |  |  |
-| CT-5 |  |  |  |
-| CT-6 |  |  |  |
+
 
 ---
 # Result :
@@ -31,7 +29,20 @@ Centre of Studies in Resources Engineering - Established in IIT Bombay in 1976, 
 ---
 
 # Aptitude Tests
+| Aptitude Tests| Links |  Date | Incentive Points |
+| ------ | ------ | ------ | ------ |
+| AT-1 |  |  | 2 |
+| AT-2 |  |   | 2 |
+
+
 # Technical Tests
+| Technical Tests | Links |  Date | Incentive Points |
+| ------ | ------ | ------ | ------ |
+| TT-1 | |  | 2 |
+| TT-2 |  |   | 2 |
+| TT-3 |  |  |  |
+
+
 
 
 
