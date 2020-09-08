@@ -20,9 +20,9 @@
 | CT-2 | [CSRE Coding Test-2](https://www.hackerrank.com/csre-coding-test-2) | 22 Aug 2020  | 2 |
 
 
-## Aptitude Tests
+### Aptitude Tests
 
-## Technical Tests
+### Technical Tests
 
 ## Result :
 ### - [Incentive Points Live](https://docs.google.com/spreadsheets/d/e/2PACX-1vSM1fbMXQk9M_v_jXYX6yjsobGbVr2eP-XQsaYjsbAdvrHDRNmnLl1HWB07Fdo0u7xPXkFE69bH6pTx/pubhtml)
