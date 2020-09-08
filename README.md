@@ -33,5 +33,4 @@
 
 #### Contact DPC - [PavelBodle](https://www.linkedin.com/in/pavelbodle/)
 
-### License
-[MIT](https://choosealicense.com/licenses/mit/)
+
