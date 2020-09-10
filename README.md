@@ -1,8 +1,8 @@
 
-![logo](https://github.com/PavelBodle/PavelBodle.github.io/blob/master/assets/logo.png?raw=true)  
 
 
-### [Department activities](https://csre-iitbombay.github.io/)
+
+
 
 > - Coding Tests
 > - Aptitude Tests
@@ -12,7 +12,7 @@
 >   -- Award 
 
 
-## [Coding Tests](https://csre-iitbombay.github.io/)
+### Coding Tests
 
 ### Aptitude Tests
 
