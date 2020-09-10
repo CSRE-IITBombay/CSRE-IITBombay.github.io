@@ -18,7 +18,7 @@
 
 ### Technical Tests
 
-### Result :
+### Result 
 
 ### Incentive Points Live
 
