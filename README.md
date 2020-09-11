@@ -22,7 +22,6 @@
 
 ### Incentive Points Live
 
-
 #### Contact DPC - [PavelBodle](https://www.linkedin.com/in/pavelbodle/)
 
 
